@@ -16,3 +16,5 @@ Mark orders as delivered.
 Track delivery status.
 
 The app supports delivery within a specific range around partnered fuel pumps. If all fuel pumps collaborate with the system, this service can scale to a wider region, allowing faster and more reliable fuel deliveries
+
+❗❗❗Old Firebase keys in this repo are expired and kept for educational/demo purposes only❗❗❗
